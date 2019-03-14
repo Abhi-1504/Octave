@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Octave</string>
+    <string name="Songs">Songs</string>
+    <string name="now_playing">Now Playing</string>
+</resources>
